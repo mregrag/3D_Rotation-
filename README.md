@@ -15,7 +15,6 @@ A 3D cube rotation project using the **MLX42** graphics library, 3D-to-2D projec
 - **C Programming Language**  
 - **MLX42 Graphics Library**  
 - **Math Library (`math.h`)**  
-
 ---
 ## **3D Rotation Matrices**
 
