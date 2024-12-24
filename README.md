@@ -36,6 +36,7 @@ This section explains the mathematics behind **3D rotation matrices** and how th
 A **rotation matrix** is a matrix used to perform a **rotation** in Euclidean space. In 3D graphics, it transforms a point in 3D space by rotating it around one of the three principal axes (**X**, **Y**, or **Z**). The rotation is parameterized by an angle of rotation (θ), and each axis has its own corresponding rotation matrix.
 
 ### **General Rotation Matrix Formula:**
+file:///home/mregrag/Pictures/Screenshots/Screenshot%20from%202024-12-24%2017-56-17.png
 
 For a given 3D point \( P(x, y, z) \), the rotation around a specific axis is represented as a matrix multiplication. The resulting new position of the point after rotation is calculated by multiplying the point by the rotation matrix.
 
