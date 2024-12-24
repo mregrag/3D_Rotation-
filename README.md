@@ -28,7 +28,7 @@ A 3D cube rotation project using the **MLX42** graphics library, 3D-to-2D projec
 # **3D Rotation Matrices**
 
 This section explains the mathematics behind **3D rotation matrices** and how they are applied to rotate points in 3D space around the **X**, **Y**, and **Z** axes. Rotation matrices are fundamental for performing 3D transformations in computer graphics.
-
+[View Demo Video](img/demo_video.mp4)
 ---
 
 ## **What is a Rotation Matrix?**
